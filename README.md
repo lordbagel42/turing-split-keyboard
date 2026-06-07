@@ -1,4 +1,4 @@
-# Turing Split - HIGHWAY
+# Turing Split
 
 ![alt text](resources/images/pcb.png)
 
